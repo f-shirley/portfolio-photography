@@ -164,14 +164,9 @@ main {
     margin-top: 65px;
 }
 .homepage_photos img {
-    max-width: 300px;
-    max-height: 400px;
     margin-bottom: 25px;
 }
-.two_vertical_photos img {
-    max-width: 145px;
-    max-height: 450px;
-}
+
 .two_vertical_photos img:first-child {
     margin-right: 5px;
 }
